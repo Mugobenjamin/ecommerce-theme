@@ -1,0 +1,92 @@
+<svg width="390" height="820" viewBox="0 0 390 820" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="mHero" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0C0F12"/>
+      <stop offset="1" stop-color="#181E23"/>
+    </linearGradient>
+    <linearGradient id="mAccent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FF7A1A"/>
+      <stop offset="1" stop-color="#FF5C00"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="390" height="820" fill="#F5F7F9"/>
+
+  <rect width="390" height="32" fill="#090A0B"/>
+  <text x="195" y="21" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="8" font-weight="800" letter-spacing="1.3">FREE SHIPPING OVER $75</text>
+
+  <rect x="0" y="32" width="390" height="64" fill="white"/>
+  <rect x="18" y="48" width="30" height="30" rx="8" fill="url(#mAccent)"/>
+  <text x="33" y="68" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="800">F</text>
+  <text x="62" y="68" fill="#0B0E11" font-family="Arial, sans-serif" font-size="18" font-weight="800">FITFORGE</text>
+
+  <circle cx="337" cy="62" r="14" fill="#F3F5F7"/>
+  <path d="M332 62H342M337 57V67" stroke="#1A1F24" stroke-width="2" stroke-linecap="round"/>
+  <path d="M321 62H328" stroke="#1A1F24" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="356" cy="62" r="10" fill="#F3F5F7"/>
+  <path d="M352 62H360" stroke="#1A1F24" stroke-width="2" stroke-linecap="round"/>
+
+  <rect x="14" y="104" width="362" height="238" rx="26" fill="url(#mHero)"/>
+  <rect x="28" y="118" width="120" height="28" rx="14" fill="#DFF5A2"/>
+  <text x="88" y="137" text-anchor="middle" fill="#2D4D00" font-family="Arial, sans-serif" font-size="9" font-weight="800" letter-spacing="1.4">PERFORMANCE FIRST</text>
+
+  <text x="28" y="180" fill="white" font-family="Arial, sans-serif" font-size="34" font-weight="900" letter-spacing="-1.6">BUILD</text>
+  <text x="28" y="220" fill="white" font-family="Arial, sans-serif" font-size="34" font-weight="900" letter-spacing="-1.6">YOUR</text>
+  <text x="28" y="260" fill="white" font-family="Arial, sans-serif" font-size="34" font-weight="900" letter-spacing="-1.6">STRONGER.</text>
+
+  <text x="28" y="286" fill="#DCE4EB" font-family="Arial, sans-serif" font-size="12">Premium gym gear for stronger</text>
+  <text x="28" y="302" fill="#DCE4EB" font-family="Arial, sans-serif" font-size="12">workouts and better recovery.</text>
+
+  <rect x="28" y="318" width="148" height="36" rx="18" fill="url(#mAccent)"/>
+  <text x="102" y="341" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="800">SHOP EQUIPMENT</text>
+
+  <rect x="186" y="318" width="152" height="36" rx="18" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.2)"/>
+  <text x="262" y="341" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="700">ACCESSORIES</text>
+
+  <rect x="200" y="134" width="150" height="170" rx="22" fill="#10171B"/>
+  <rect x="212" y="146" width="126" height="146" rx="18" fill="#D9E0E7"/>
+  <rect x="228" y="170" width="94" height="18" rx="9" fill="#C1C7CF"/>
+  <rect x="228" y="196" width="74" height="14" rx="7" fill="#E7EBF0"/>
+  <circle cx="276" cy="242" r="25" fill="#FF7A1A"/>
+
+  <g transform="translate(14,380)">
+    <text x="0" y="16" fill="#FF5C00" font-family="Arial, sans-serif" font-size="10" font-weight="800" letter-spacing="1.5">SHOP BY CATEGORY</text>
+
+    <g transform="translate(0,28)">
+      <rect x="0" y="0" width="170" height="120" rx="18" fill="white"/>
+      <rect x="0" y="0" width="170" height="72" rx="18" fill="#E9EDF1"/>
+      <rect x="24" y="24" width="54" height="30" rx="10" fill="#8E98A5"/>
+      <rect x="88" y="24" width="40" height="30" rx="10" fill="#BCC9D4"/>
+      <text x="16" y="102" fill="#0B0E11" font-family="Arial, sans-serif" font-size="14" font-weight="800">Dumbbells</text>
+    </g>
+
+    <g transform="translate(180,28)">
+      <rect x="0" y="0" width="170" height="120" rx="18" fill="white"/>
+      <rect x="0" y="0" width="170" height="72" rx="18" fill="#EFF3F6"/>
+      <rect x="24" y="24" width="110" height="26" rx="8" fill="#D9DEE5"/>
+      <rect x="40" y="30" width="40" height="14" rx="7" fill="#FF7A1A" opacity="0.5"/>
+      <rect x="90" y="30" width="26" height="14" rx="7" fill="#C8EE59" opacity="0.7"/>
+      <text x="16" y="102" fill="#0B0E11" font-family="Arial, sans-serif" font-size="14" font-weight="800">Barbells</text>
+    </g>
+  </g>
+
+  <g transform="translate(14,540)">
+    <text x="0" y="16" fill="#FF5C00" font-family="Arial, sans-serif" font-size="10" font-weight="800" letter-spacing="1.5">FEATURED GEAR</text>
+    <rect x="0" y="32" width="170" height="180" rx="18" fill="white"/>
+    <rect x="14" y="44" width="72" height="72" rx="14" fill="#EEF2F4"/>
+    <rect x="100" y="52" width="52" height="12" rx="6" fill="#D9DEE5"/>
+    <rect x="100" y="70" width="44" height="10" rx="5" fill="#EDF0F3"/>
+    <rect x="100" y="92" width="48" height="14" rx="7" fill="#FF7A1A" opacity="0.18"/>
+    <text x="100" y="130" fill="#0B0E11" font-family="Arial, sans-serif" font-size="18" font-weight="800">$899</text>
+
+    <rect x="180" y="32" width="170" height="180" rx="18" fill="white"/>
+    <rect x="194" y="44" width="72" height="72" rx="14" fill="#EDF0F3"/>
+    <rect x="280" y="52" width="52" height="12" rx="6" fill="#D9DEE5"/>
+    <rect x="280" y="70" width="44" height="10" rx="5" fill="#EDF0F3"/>
+    <rect x="280" y="92" width="48" height="14" rx="7" fill="#FF7A1A" opacity="0.18"/>
+    <text x="280" y="130" fill="#0B0E11" font-family="Arial, sans-serif" font-size="18" font-weight="800">$499</text>
+  </g>
+
+  <rect x="14" y="738" width="362" height="52" rx="26" fill="#0B0E11"/>
+  <text x="195" y="770" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="800">SUBSCRIBE FOR DEALS</text>
+</svg>
