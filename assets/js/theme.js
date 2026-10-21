@@ -10,4 +10,6 @@ document.addEventListener('DOMContentLoaded', function () {
     const isOpen = nav.classList.toggle('is-open');
     toggle.setAttribute('aria-expanded', String(isOpen));
   });
+
+  nav.setAttribute('id', 'site-navigation');
 });
